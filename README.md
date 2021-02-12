@@ -1,13 +1,12 @@
    ![47321004_981845242004909_2531196984002347008_o](https://user-images.githubusercontent.com/36560845/107155430-844a1c80-69a2-11eb-9552-20f5b1b111ca.jpg)
    
-   <h2 align="center">Hello there! 👋🤓</h2>
+   <h2 align="center">Hello there! 🖐</h2>
    <p align="center">
-      I tried to write a lot of things here, but trust me, I couldn't find anything in my mind. I spent a lot of time googling it but it wasn't futile. That's why, i'm copying my LnkedIn bio 😔 
+      I tried to write a lot of things here, but trust me, I couldn't find anything in my mind. I spent a lot of time googling it but it wasn't futile. That's why, i'm copying my LinkedIn bio 😔 
    </p>
    
    <p>
       Jnior Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Java,Core Spring,Spring Boot, Spring MVC,Node js,Express js. Strong engineering professional with a Bachelor of Science - BS focused in Computer Science and Telecommunication Engineering. 
    </p>
    
- [Mail Me](shuvorm87@gmail.com)
   <a href="https://www.linkedin.com/in/md-moshiur-rahman-84b208165/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg">
