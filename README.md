@@ -6,7 +6,7 @@
    </p>
    
    <p>
-      Jnior Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Java,Core Spring,Spring Boot, Spring MVC,Node js,Express js. Strong engineering professional with a Bachelor of Science - BS focused in Computer Science and Telecommunication Engineering. 
+      Junior Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Java,Core Spring,Spring Boot, Spring MVC,Node js,Express js. Strong engineering professional with a Bachelor of Science - BS focused in Computer Science and Telecommunication Engineering. 
    </p>
    
   <a href="https://www.linkedin.com/in/md-moshiur-rahman-84b208165/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg">
