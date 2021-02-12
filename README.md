@@ -1,4 +1,4 @@
-   ![47321004_981845242004909_2531196984002347008_o](https://user-images.githubusercontent.com/36560845/107155430-844a1c80-69a2-11eb-9552-20f5b1b111ca.jpg)
+  ![1343](https://user-images.githubusercontent.com/36560845/107787659-98fb2b80-6d79-11eb-925c-287671025fad.jpg)
    
    <h2 align="center">Hello there! 🖐</h2>
    <p align="center">
