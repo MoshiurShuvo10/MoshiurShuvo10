@@ -1,12 +1,9 @@
-  ![1343](https://user-images.githubusercontent.com/36560845/107787659-98fb2b80-6d79-11eb-925c-287671025fad.jpg)
-   
+
    <h2 align="center">Hello there! 🖐</h2>
-   <p align="center">
-      I tried to write a lot of things here, but trust me, I couldn't find anything in my mind. I spent a lot of time googling it but it wasn't futile. That's why, i'm copying my LinkedIn bio 😔 
-   </p>
    
    <p>
-      Junior Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Java,Core Spring,Spring Boot, Spring MVC,Node js,Express js. Strong engineering professional with a Bachelor of Science - BS focused in Computer Science and Telecommunication Engineering. 
+      Junior Software Engineer with a demonstrated history of working in the computer software industry. Skilled in <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>,<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>,<img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/> <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>. Strong engineering professional with a Bachelor of Science - BS focused in Computer Science and Telecommunication Engineering. 
    </p>
    
-  <a href="https://www.linkedin.com/in/md-moshiur-rahman-84b208165/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg">
+   
+  <p>Find me on <a href="https://www.linkedin.com/in/md-moshiur-rahman-84b208165/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
