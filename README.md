@@ -11,6 +11,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azrindipu&show_icons=true&hide=&theme=gotham&line_height=27&hide_border=true">
 
 </p>
-Achieved AWS Certified Cloud Practitioner certification
-<img src="https://github.com/MoshiurShuvo10/MoshiurShuvo10/blob/master/AWS%20Certified%20Cloud%20Practitioner%20certificate-1.jpg" width="800" height="600" />
+
 <p>Find me on <a href="https://www.linkedin.com/in/md-moshiur-rahman-84b208165/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
